@@ -1,0 +1,127 @@
+[
+	{
+		"name": "Allamanda",
+		"scientific_name": "Allamanda neriifolia",
+		"description": "A smaller variety of Yellow Bell with similar characteristics."
+	},
+	{
+		"name": "Bagawak-Morado",
+		"scientific_name": "Clerodendrum quadriloculare",
+		"description": "An ornamental flower with purple and white blooms."
+	},
+	{
+		"name": "Bauhinia",
+		"scientific_name": "Bauhinia blakeana",
+		"description": "Known as the orchid tree flower, with delicate purple petals."
+	},
+	{
+		"name": "Bird of Paradise",
+		"scientific_name": "Strelitzia reginae",
+		"description": "An exotic flower resembling a bird in flight."
+	},
+	{
+		"name": "Bougainvillea",
+		"scientific_name": "Bougainvillea",
+		"description": "A decorative plant with bright, colorful bracts in pink, orange, or purple."
+	},
+	{
+		"name": "Dama de Noche",
+		"scientific_name": "Cestrum nocturnum",
+		"description": "A night-blooming flower with a strong, sweet scent."
+	},
+	{
+		"name": "Dona Aurora",
+		"scientific_name": "Mussaenda philippica",
+		"description": "A star-shaped flower named after a Philippine First Lady."
+	},
+	{
+		"name": "Fire Tree Flowers",
+		"scientific_name": "Delonix regia",
+		"description": "Bright red-orange blooms that stand out in summer."
+	},
+	{
+		"name": "Gumamela",
+		"scientific_name": "Hibiscus rosa-sinensis",
+		"description": "A vibrant flower available in various colors like red, pink, and yellow."
+	},
+	{
+		"name": "Hoya",
+		"scientific_name": "Hoya carnosa",
+		"description": "Waxy, star-shaped flowers also called 'wax flowers.'"
+	},
+	{
+		"name": "Ilang-Ilang",
+		"scientific_name": "Cananga odorata",
+		"description": "Yellow-green flowers with a unique shape and a sweet, strong fragrance."
+	},
+	{
+		"name": "Kalachuchi",
+		"scientific_name": "Plumeria",
+		"description": "A tropical flower with white petals and a yellow center, often seen in gardens."
+	},
+	{
+		"name": "Katmon",
+		"scientific_name": "Dillenia philippinensis",
+		"description": "Native white flowers with large, prominent stamens."
+	},
+	{
+		"name": "Katuray",
+		"scientific_name": "Sesbania grandiflora",
+		"description": "Edible flowers used in traditional Filipino dishes."
+	},
+	{
+		"name": "Mimosa",
+		"scientific_name": "Mimosa pudica",
+		"description": "Pink puffball flowers, also called 'Makahiya' due to their shy nature."
+	},
+	{
+		"name": "Palawan Cherry",
+		"scientific_name": "Cassia nodosa",
+		"description": "Pink blooms similar to Japanese cherry blossoms."
+	},
+	{
+		"name": "Pasiflora",
+		"scientific_name": "Passiflora edulis",
+		"description": "Passionflower with intricate and unique petals."
+	},
+	{
+		"name": "Rafflesia",
+		"scientific_name": "Rafflesia",
+		"description": "The world's largest flower, known for its unique appearance and rarity."
+	},
+	{
+		"name": "Rosal",
+		"scientific_name": "Gardenia jasminoides",
+		"description": "A fragrant flower with pure white petals, often used in perfumes."
+	},
+	{
+		"name": "Sampaguita",
+		"scientific_name": "Jasminum sambac",
+		"description": "The national flower of the Philippines, known for its small white blooms and sweet fragrance."
+	},
+	{
+		"name": "Santan",
+		"scientific_name": "Ixora coccinea",
+		"description": "Small, clustered flowers in shades of red, orange, or pink."
+	},
+	{
+		"name": "Tuberose",
+		"scientific_name": "Polianthes tuberosa",
+		"description": "Highly fragrant white flowers often used in floral arrangements."
+	},
+	{
+		"name": "Waling-Waling",
+		"scientific_name": "Vanda sanderiana",
+		"description": "An orchid called the 'Queen of Philippine Orchids,' known for its striking purple and pink hues."
+	},
+	{
+		"name": "White Angel",
+		"scientific_name": "Tabernaemontana divaricata",
+		"description": "Pinwheel-shaped flowers with a delicate white appearance."
+	},
+	{
+		"name": "Yellow Bell",
+		"scientific_name": "Allamanda cathartica",
+		"description": "Bright yellow trumpet-shaped flowers, common in tropical areas."
+	}
+]
